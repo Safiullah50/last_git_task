@@ -1,4 +1,4 @@
-### Well hello there! glad to have you !!
+### Well hello there! please to have you !!
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
